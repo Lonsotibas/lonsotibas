@@ -1,24 +1,6 @@
 # Hi, I'm Matias
 
-I’m a **Software Developer** and **Data Professional** with experience building data-driven applications, analytic solutions, and backend systems. I specialize in **Power BI**, **ETL pipelines (SSIS)**, and **Full Stack Development** with a strong focus on performance, data integrity, and clean architecture.
-
----
-
-### 🔧 Tech Stack
-
-**Programming & Data**
-- Python | SQL | NoSQL | DAX | T-SQL
-- Flask | FastAPI
-- ETL (SSIS) | Data Modeling | REST APIs
-
-**Data & BI Tools**
-- Power BI | Microsoft Fabric | Snowflake | Excel
-
-**Cloud & DevOps**
-- Azure | CI/CD Pipelines | Git | Docker (basic)
-
-**Other**
-- System Design | Dashboarding | Automation | API Integration
+I’m a **Software Developer** and **Data Professional** with experience building data-driven applications, analytic solutions, and backend systems. I specialize in **Power BI**, **ETL pipelines**, and **Full Stack Development**.
 
 ---
 
@@ -57,7 +39,6 @@ I’m a **Software Developer** and **Data Professional** with experience buildin
 - Advanced data pipelines with Python + Azure
 - Data warehouse modeling and automation
 - Analytics engineering and BI architecture
-- Personal portfolio using FastAPI + React + Azure
 
 ---
 
