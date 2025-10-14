@@ -22,7 +22,7 @@ I’m a **Software Developer** and **Data Professional** with experience buildin
 
 ### 📚 Education
 
-- **MIT xPRO** – Applied Data Science Certificate (2024)  
+- **MITx Professional Education** – Applied Data Science Certificate (2024)  
 - **University of Chile** – Filmmaking & Television (2024)
 
 ---
